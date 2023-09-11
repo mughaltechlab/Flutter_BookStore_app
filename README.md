@@ -11,15 +11,5 @@ Features
 => Search functionality by title or author.
 => Persistence: Keep cart items persistent across app restarts using shared_preferences.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![bookstore](https://github.com/mughaltechlab/Flutter_BookStore_app/assets/75667871/3b040ec9-d73d-490e-adf0-9d95f3887748)
